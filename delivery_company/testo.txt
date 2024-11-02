@@ -1,6 +1,4 @@
 
-# Esame Tecniche di Programmazione Avanzata 13 Luglio 2021 - Ditta spedizioni
-
 Una ditta di spedizioni pianifica dei viaggi in camion che prevedono l'attraversamento di varie città. 
 
 Una città può avere un magazzino della ditta, una dogana (o entrambe). La ditta gestisce vari beni (es mele, fragole, arance)
